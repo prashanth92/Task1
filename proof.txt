@@ -1,0 +1,4 @@
+prashanth@prashanth-Inspiron-3521:~/source/linux-build/eudyptula$ sudo insmod hello_world.ko
+prashanth@prashanth-Inspiron-3521:~/source/linux-build/eudyptula$ dmesg | grep Hello
+[33227.343801] Hello World!
+
